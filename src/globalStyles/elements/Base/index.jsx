@@ -9,7 +9,6 @@ body{
 
     background-color: var(--color--green);
     font-family: 'VT323', monospace;
-    box-sizing: border-box;
 }
 
 
